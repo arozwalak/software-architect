@@ -1,29 +1,27 @@
-# README #
+# Architect
 
-This README would normally document whatever steps are necessary to get your application up and running.
+[TOC]
 
-### What is this repository for? ###
+1. Frontend
+2. Backend
+3. Devops
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+## Frontend
 
-### How do I get set up? ###
+### Angular
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+### [JavaScript design patterns](https://www.lambdatest.com/blog/comprehensive-guide-to-javascript-design-patterns/)
 
-### Contribution guidelines ###
+## Backend
 
-* Writing tests
-* Code review
-* Other guidelines
+### Java
 
-### Who do I talk to? ###
+### Python
 
-* Repo owner or admin
-* Other community or team contact
+## Devops
+
+### Docker
+
+### Terraform
+
+### AWS
